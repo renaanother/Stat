@@ -1,0 +1,419 @@
+{
+  name: 'Stat Happy Hour',
+  calls: [
+    [
+      [
+        'If you want to succeed, avoid ',
+        {},
+        ' at all costs.',
+      ],
+    ],
+    [
+      [
+        'The trick to making an awesome sandwich is ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'The tip to have the best pulutan is ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        "Even if my blogging career doesn't take off, I can always fall back on ",
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'Opening a bar after 2020 means you seriously need insurance for ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        "When I go to college, I'm going to major in ",
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'My boyfriend made me watch this pretentious indie movie, "My Dinner With ',
+        {},
+        '."',
+      ],
+    ],
+    [
+      [
+        "Let's all raise a glass to ",
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        '99% of my hard drive is filled with ',
+        {},
+        ' videos.',
+      ],
+    ],
+    [
+      [
+        "In today's news, worshippers flocked to see a water stain that resembled ",
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'In times like these we all have to come together and ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        'The quest to clear the cellar of rats went horribly wrong when the paladin started ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        'Clearly the best subreddit to browse on the toilet has to be r/ ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        "If I have to die then I hope it's at least ",
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        'I hate him so much! When he came to my house I offered him a glass of water that I filled from ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        "Tell me what I want to know and I'll make this quick. Resist and you'll be ",
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        'It only took my entire life but I can now finally afford ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        {},
+        'Coming up next on Nickelodeon: Legends of the Hidden ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        "Don't let them fool you, the American Civil War was actually about ",
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        'Son there are no monsters in the closet, everyone knows they actually like to hide in ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        "My new apartment doesn't allow pets, that's why I took my dog to ",
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        'Ironic. He could save others from ',
+        {},
+        ' , but not himself.',
+      ],
+    ],
+    [
+      [
+        "I'm not angry with you, just ",
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        "Hold still! Take one more step and I'll ",
+        {},
+        ' !',
+      ],
+    ],
+    [
+      [
+        "It's 3am. Do you know where your ",
+        {},
+        ' are?',
+      ],
+    ],
+    [
+      [
+        "Men only want one thing and it's ",
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        'The essence of a woman is ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'I dreamt of ',
+        {},
+        ' last night.',
+      ],
+    ],
+    [
+      [
+        'My boss asked me to ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        "My dad can't go anywhere without ",
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'Coming up next on Netflix: Legends of the Hidden ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        "Hold still! Take one more step and I'll ",
+        {},
+        ' !',
+      ],
+    ],
+    [
+      [
+        'Float like a butterfly, sting like a ',
+        {},
+        ' .',
+      ],
+    ],
+    [
+      [
+        "Look at my face. Do I look like I'm ",
+        {},
+        '?',
+      ],
+    ],
+    [
+      [
+        'My ultimate dream is to wake up with ',
+        {},
+        '. ',
+      ],
+    ],
+    [
+      [
+        'In another life, I wish to be ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        " I think you'd really enjoy ",
+        {},
+        ' if you gave it a chance.',
+      ],
+    ],
+    [
+      [
+        "Here's looking at     ",
+        {},
+        ' , kid.',
+      ],
+    ],
+    [
+      [
+        'I will burn this place with ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        "I'll gladly accept ",
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'I hope to free the world of ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'Loving is ',
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        "I'm letting out a loud ",
+        {},
+        '.',
+      ],
+    ],
+    [
+      [
+        'Late at night I close my eyes and think about ',
+        {},
+        '.',
+      ],
+    ],
+  ],
+  language: 'en-US',
+  responses: [
+    'Dexter',
+    'Allan',
+    'Martin',
+    'Iyu',
+    'Mycah',
+    'Carlo',
+    'TL Jen',
+    'Adding eggs and mayo.',
+    'Texting Carlo.',
+    'Grow a moustache to look like Martin.',
+    'Begging for Likes.',
+    'My permission.',
+    'Pass the shot.',
+    'The concept of tagay',
+    'Some kind of sick joke.',
+    'A fall down the stage.',
+    'Tequila',
+    'Lambanog',
+    'Tagayan',
+    'Shotglass',
+    'Chiharron',
+    'Sisig',
+    'Happy Hour',
+    'Hell week.',
+    'Someone slipping on a banana peel.',
+    'The skinless longganisa.',
+    'Filipino Flammable Lotion',
+    'A remarkably crap-tacular gig.',
+    'Another drink.',
+    'Never Have I Ever.',
+    'The sound of someone yelling through the phone.',
+    'Furball.',
+    'Uneven Eyebrows.',
+    'Three ribs being surgically removed by a drunk doctor.',
+    'Feeling ways about things.',
+    'A serial killer.',
+    'Explicit.',
+    'Statistics.',
+    'Tapsilog.',
+    'Inihaw.',
+    'Two strips of bacon, wrapped in bacon, and smothered in bacon... with a side of bacon… served on a plate made of woven bacon.',
+    'A hairy face.',
+    'My new phone.',
+    'A creepy kapitbahay.',
+    'The mistake of twisting it until something breaks.',
+    'Another jeje post.',
+    'Dr. Hannibal.',
+    'San Mig Apple',
+    'Chaser',
+    'Hold you hand.',
+    'Buy myself flowers.',
+    'Taking care of a drunk fellow.',
+    'Adopting 100 stray people.',
+    'Having strong opinions about why the tomato is a fruit.',
+    'Getting shot while drowning in beer.',
+    'A boring life.',
+    'Be a monkey.',
+    'Sinigang',
+    'Missing Mangga.',
+    'Crawl all over the kitchen.',
+    'Sharp mongol pencil.',
+    'An Lazada delivery guy.',
+    'Tiktok.',
+    'Add to cart.',
+    'Bottomless iced tea. ',
+    'Cuddles.',
+    'Dirty, dirty old man.',
+    'Lots of money.',
+    'Famine.',
+    'Infinitely long arms.',
+    'Superstition.',
+    'Breaking eggshells.',
+    'A corrupt politician.',
+    'Civilians.',
+    'A dead bird.',
+    "A burp in someone's mouth.",
+    'STREET SMARTS!.',
+    'A sick joke',
+    'Short and sweet.',
+    'Please, please, please.',
+    "Other people's teeth.",
+    'Blackmarket deodorant.',
+    'A light bulb. ',
+    'Half of everything you own.',
+    'A mockingbird.',
+    'Diarrhea.',
+    'Vomiting.',
+    'Easy.',
+    'Perfect clown.',
+    'Phishing scams. ',
+    'Hands shaped like a foot. ',
+    'Envy.',
+    'A one way ticket.',
+    'Charity.',
+    'A moment of silence.',
+    'Dead parents',
+    'A disappointingbirthday party',
+    'Mathletes',
+    'Getting drunk onmouthwash.',
+    'Drinking alone',
+    'Hangover.',
+  ],
+  author: 'renaanother',
+}
